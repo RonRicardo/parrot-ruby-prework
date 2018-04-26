@@ -1,4 +1,4 @@
 def parrot(yell = "Squawk!")
-  print yell
+  puts yell
   return yell
 end
