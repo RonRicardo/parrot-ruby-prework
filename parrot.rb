@@ -1,3 +1,3 @@
 def parrot(yell = 'Squawk!')
-  puts yell
+  yell
 end
