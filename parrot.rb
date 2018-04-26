@@ -1,3 +1,3 @@
 def parrot(yell = "Squawk!")
-  return yell
+  puts yell
 end
